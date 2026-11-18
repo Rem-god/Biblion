@@ -1,0 +1,68 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-11-11 12:18:03 #1 store] 
+Database 'C:\Users\Román Emmanuel\.gemini\antigravity\scratch\biblion\db\biblion.odb' is opened by 9196@DESKTOP-A06RP2O
+
+[2026-11-11 12:18:03 #2 store] 
+Configuration path: ?
+
+[2026-11-11 12:18:03 #3 store] 
+Database 'C:\Users\Román Emmanuel\.gemini\antigravity\scratch\biblion\db\biblion.odb' is closed by 9196@DESKTOP-A06RP2O
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-11-11 12:19:16 #1 store] 
+Database 'C:\Users\Román Emmanuel\.gemini\antigravity\scratch\biblion\db\biblion.odb' is opened by 20708@DESKTOP-A06RP2O
+
+[2026-11-11 12:19:16 #2 store] 
+Configuration path: ?
+
+[2026-11-11 12:19:16 #3 type] 
+Type com.atenea.biblion.model.Editorial is not enhanced.
+
+[2026-11-11 12:19:16 #4 type] 
+Type com.atenea.biblion.model.Libro is not enhanced.
+
+[2026-11-11 12:19:16 #5 type] 
+Type com.atenea.biblion.model.Venta is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-11-11 12:22:05 #1 store] 
+Database 'C:\Users\Román Emmanuel\.gemini\antigravity\scratch\biblion\db\biblion.odb' has been recovered (tr. 1-7)
+
+[2026-11-11 12:22:05 #2 store] 
+Database 'C:\Users\Román Emmanuel\.gemini\antigravity\scratch\biblion\db\biblion.odb' is opened by 30340@DESKTOP-A06RP2O
+
+[2026-11-11 12:22:05 #3 store] 
+Configuration path: ?
+
+[2026-11-11 12:22:05 #4 type] 
+Type com.atenea.biblion.model.Editorial is not enhanced.
+
+[2026-11-11 12:22:05 #5 type] 
+Type com.atenea.biblion.model.Libro is not enhanced.
+
+[2026-11-11 12:22:05 #6 type] 
+Type com.atenea.biblion.model.Venta is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2026-11-11 12:22:53 #1 store] 
+Database 'C:\Users\Román Emmanuel\.gemini\antigravity\scratch\biblion\db\biblion.odb' is opened by 25536@DESKTOP-A06RP2O
+
+[2026-11-11 12:22:53 #2 store] 
+Configuration path: ?
+
+[2026-11-11 12:22:53 #3 type] 
+Type com.atenea.biblion.model.Editorial is not enhanced.
+
+[2026-11-11 12:22:53 #4 type] 
+Type com.atenea.biblion.model.Libro is not enhanced.
+
+[2026-11-11 12:22:53 #5 type] 
+Type com.atenea.biblion.model.Venta is not enhanced.
+
+[2026-11-11 13:14:25 #6 store] 
+Database 'C:\Users\Román Emmanuel\.gemini\antigravity\scratch\biblion\db\biblion.odb' is closed by 25536@DESKTOP-A06RP2O
+
